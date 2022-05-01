@@ -4,7 +4,8 @@ const inquirer = require('inquirer');
 
 const generateMarkdown = require('./generateMarkdown')
 
-const fileName = 'ReadMe.md'
+ // Declare FileName -- originally placed before line 71 but app would give error
+ const fileName = 'ReadMe.md'
 
 // TODO: Create an array of questions for user input
 const questions = [

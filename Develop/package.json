@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/mduhart82/read-me-gen/issues"
   },
-  "homepage": "https://github.com/mduhart82/read-me-gen#readme",
+  "homepag": "https://github.com/mduhart82/read-me-gen#readme",
   "dependencies": {
     "inquirer": "^8.2.2"
   }

@@ -16,10 +16,12 @@ function renderLicenseLink(license) {}
 // If there is no license, return an empty string
 function renderLicenseSection(license) {}
 
-// TODO: Create a function to generate markdown for README
+
+
+// TODO: Create a function to generate markdown for README 
 const generateMarkdown = data => {
   return `# ${data.title}
-  ![License](https://https://img.shields.io/badge/License-ISC-yellow)
+  ![License](https://img.shields.io/badge/License-ISC-yellow)
 
   ## Table of Contents
   * [Description](#description)
@@ -47,10 +49,10 @@ const generateMarkdown = data => {
 
   ## License 
   The application is covered under the ${data.license} license.
-  ${renderLicenseBadge(data.license)}
+ 
 
   ## Questions
-  You can search for my repo on GitHub by entering ${data.username} and you can view my projects at https://github.com/${data.username}.
+  Should there be any comments and/or inquiry's, please feel free to contact me at ${data.email}. Also, you can search for my repo on GitHub by entering ${data.username} or you can view my projects at https://github.com/${data.username}you .
 
 `;
 } 

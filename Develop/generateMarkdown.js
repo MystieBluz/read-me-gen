@@ -21,7 +21,7 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README 
 const generateMarkdown = data => {
   return `# ${data.title}
-  ![License](https://img.shields.io/badge/License-ISC-yellow)
+  ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Table of Contents
   * [Description](#description)

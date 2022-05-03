@@ -33,5 +33,4 @@
   Should there be any comments and/or inquiries, please feel free to contact me at misty.duhart@gmail.com. Also, you can search for my repo on GitHub by entering mduhart82 or you can view my projects at https://github.com/mduhart82.
 
   ## Live Demo
-  ![ReadMe Generator](https://drive.google.com/file/d/1FxjqkePO8lK3YAwLXA8v9FBmfZA5iWN0/view?usp=sharing)  
-
+  

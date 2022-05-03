@@ -52,7 +52,7 @@ const generateMarkdown = data => {
  
 
   ## Questions
-  Should there be any comments and/or inquiry's, please feel free to contact me at ${data.email}. Also, you can search for my repo on GitHub by entering ${data.username} or you can view my projects at https://github.com/${data.username}you .
+  Should there be any comments and/or inquiry's, please feel free to contact me at ${data.email}. Also, you can search for my repo on GitHub by entering ${data.username} or you can view my projects at https://github.com/${data.username}.
 
 `;
 } 
